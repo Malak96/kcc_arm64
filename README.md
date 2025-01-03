@@ -1,4 +1,4 @@
-# Gia para KCC y Kindlegen en ARM64
+# KCC y Kindlegen en ARM64
 
 Este repositorio contiene una modificación para que **Kindlegen** funcione correctamente con **kcc** en **arquitectura ARM64**.
 
